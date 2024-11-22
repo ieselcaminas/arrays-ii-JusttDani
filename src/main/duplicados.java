@@ -1,5 +1,3 @@
-package main;
-
 public class duplicados {
     public static void main(String[] args) {
         int[] numeros = {2,4,6,6,2,2,7,9,4,10};

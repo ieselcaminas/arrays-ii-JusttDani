@@ -1,3 +1,5 @@
+**Corrección 8** Comunes no está hecho
+
 Para importar la librería Junit que permite realizar pruebas unitarias, 
 ve a `File->Project Structure->Libraries`
 pulsa el botón `+`, selecciona `from maven` e 
